@@ -1,0 +1,16 @@
+.banner {
+  background-image: url(../../images/banner.jpeg);
+  color: white;
+  font-family: arial;
+  padding: 60px 0px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+.banner h1{
+  font-size: 60px;
+  font-family: arial;
+  color: black;
+}
+

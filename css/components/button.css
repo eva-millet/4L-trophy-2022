@@ -1,0 +1,28 @@
+.btn-white {
+  background-color: white;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  cursor: pointer;
+  border-radius : 4px;
+  display: block;
+  position: relative;
+  margin: 10px 350px;
+  padding: 5px;
+  text-align: center;
+ }
+
+.btn-brown {
+  background-color: rgba(223, 209, 179, 1);
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+  cursor: pointer;
+  border-radius : 4px;
+  display: block;
+  position: relative;
+  margin: 20px 20px;
+  padding: 10px;
+  text-align: center;
+  }
+
